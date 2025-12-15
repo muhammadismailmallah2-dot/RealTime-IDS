@@ -1,0 +1,11 @@
+scapy
+pyshark
+pandas
+scikit-learn
+joblib
+streamlit
+colorama
+playsound==1.2.2
+pyttsx3
+python-magic
+numpy

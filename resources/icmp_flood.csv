@@ -1,0 +1,2 @@
+time,protocol,length,src,dst,info,label
+0.028388,ARP,60,08:00:27:41:6c:c9,ff:ff:ff:ff:ff:ff,Who has 192.168.56.101? Tell 192.168.56.100,icmp_flood
