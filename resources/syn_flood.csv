@@ -1,2 +1,0 @@
-time,protocol,length,src,dst,info,label
-1.063389,ARP,60,08:00:27:72:97:cf,ff:ff:ff:ff:ff:ff,Who has 10.0.2.2? Tell 10.0.2.15,syn_flood
